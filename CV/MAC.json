@@ -312,12 +312,6 @@
       },
       {
         "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "GraphQL",
           "type": "technology"
         }
@@ -337,12 +331,6 @@
       {
         "skill": {
           "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -555,6 +543,10 @@
     },
     "preferences": {
       "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
         {
           "name": "MongoDB",
           "type": "technology"
