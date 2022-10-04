@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/13/c182630d-62f1-4eb4-99f5-7772f81fbc1a_profile.jpg"
       },
       "location": {
-        "notes": "Seville, Spain"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -51,45 +53,53 @@
     "jobs": [
       {
         "organization": {
-          "name": "Lemoncode",
-          "image": {
-            "alt": "lemoncode.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/15/3c85293d-407d-44ef-8963-90907582ea3c_lemoncode.png"
-          },
-          "URL": "https://www.lemoncode.net"
+          "name": "Verisk",
+          "URL": "https://www.verisk.com/"
         },
         "roles": [
           {
-            "name": "Open Source Developer - Apprenticeship",
-            "startDate": "2022-01-01",
+            "name": "DevOps New Career I",
+            "startDate": "2022-08-01",
             "challenges": [
               {
-                "description": "⚡ Collaborate and develop code with open source projects such as codepen.io as a training purpose.\n⚡ Pair-Programing with others collaborators.\n⚡ Acquire specialized skills under the tutelage of experienced colleagues."
+                "description": "⚡ Access/Permission issues (AWS, Git, Octopus, Bamboo...)\n⚡ Running jobs\n⚡ Git repo creation\n⚡ Assisting in troubleshooting CI/D failures\n⚡ Supporting production migrations\n⚡ Application/Server Monitoring\n⚡ Acquire specialized skills under the tutelage of experienced colleagues."
               }
             ],
             "competences": [
               {
-                "name": "Jest",
+                "name": "AWS",
                 "type": "technology"
               },
               {
-                "name": "MongoDB",
+                "name": "Bamboo",
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
+                "name": "Bitbucket",
                 "type": "technology"
               },
               {
-                "name": "React",
+                "name": "Chef",
                 "type": "technology"
               },
               {
-                "name": "Socket.io",
+                "name": "CloudFormation",
                 "type": "technology"
               },
               {
-                "name": "TypeScript",
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "New Relic",
+                "type": "technology"
+              },
+              {
+                "name": "S3",
                 "type": "technology"
               }
             ]
@@ -300,61 +310,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mongoose",
           "type": "technology"
         }
       },
@@ -366,13 +322,67 @@
       },
       {
         "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cypress",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
           "type": "technology"
         }
       }
@@ -587,6 +597,11 @@
           "name": "WordPress",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
     }
   }
