@@ -54,6 +54,10 @@
       {
         "organization": {
           "name": "Verisk",
+          "image": {
+            "alt": "Screenshot 2022-10-04 121742.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/04/a7339697-1a57-4e49-a391-acb577c4c0da_screenshot-2022-10-0.png"
+          },
           "URL": "https://www.verisk.com/"
         },
         "roles": [
