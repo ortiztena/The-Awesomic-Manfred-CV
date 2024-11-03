@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -32,6 +32,18 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ortiztena/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ortiztena"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/peteorten"
+      },
       {
         "type": "other",
         "URL": "https://ortiztena.github.io/gh-pages-portfolio/"
@@ -68,6 +80,10 @@
                 "type": "technology"
               },
               {
+                "name": "AWS Lambda",
+                "type": "technology"
+              },
+              {
                 "name": "Bamboo",
                 "type": "technology"
               },
@@ -81,10 +97,6 @@
               },
               {
                 "name": "Jira",
-                "type": "technology"
-              },
-              {
-                "name": "Lambda",
                 "type": "technology"
               },
               {
@@ -289,97 +301,53 @@
     "languages": [
       {
         "name": "DE",
+        "fullName": "Alemán",
         "level": "Limited working proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       },
       {
         "name": "IT",
+        "fullName": "Italiano",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "API",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Cypress",
+          "name": "AWS EKS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bamboo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Heroku",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mongoose",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Svelte",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
           "type": "technology"
         }
       }
@@ -413,7 +381,7 @@
             "type": "technology"
           },
           {
-            "name": "Lambda",
+            "name": "AWS Lambda",
             "type": "technology"
           },
           {
@@ -611,20 +579,11 @@
         },
         {
           "URL": "https://github.com/ortiztena",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/peteorten",
-          "type": "other"
-        }
-      ],
-      "contactMails": [
-        "ortiztena@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "611544945",
-          "countryCode": "+34"
+          "type": "twitter"
         }
       ]
     },
@@ -678,6 +637,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "AWS EKS",
+        "type": "technology"
+      },
+      {
+        "name": "Bamboo",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "Docker",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝗌𝗍𝗋𝗈𝗇𝗀 𝖻𝖺𝖼𝗄𝗀𝗋𝗈𝗎𝗇𝖽 𝗂𝗇 𝖭𝗈𝖽𝖾, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌, 𝖬𝗈𝗇𝗀𝗈𝖣𝖻, 𝖱𝖾𝖺𝖼𝗍, Docker, 𝖳𝗒𝗉𝖾𝗌𝖼𝗋𝗂𝗉𝗍 𝖺𝗇𝖽 𝗌𝗈𝗆𝖾 𝗈𝗍𝗁𝖾𝗋𝗌, 𝖺𝗇𝖽 𝖨 𝗐𝗈𝗎𝗅𝖽 𝗅𝗂𝗄𝖾 𝗍𝗈 𝗉𝗎𝗍 𝗍𝗁𝖾𝗌𝖾 𝗍𝗈 𝗀𝗈𝗈𝖽 𝗎𝗌𝖾 𝗂𝗇 𝗆𝗒 𝖿𝗎𝗍𝗎𝗋𝖾 𝗋𝗈𝗅𝖾𝗌. \n\nI would like to have a career with growth and to be able to move into different positions.",
     "goodPractices": "• Architect and develop highly maintainable, reusable, and scalable code.\n• Familiar with Clean Code, SOLID principles.\n• E2E Testing skills: GIT flow and its best practices, TDD, CI/CD.",
     "projects": [
