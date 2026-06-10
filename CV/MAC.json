@@ -478,6 +478,12 @@
       },
       {
         "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Matlab",
           "type": "technology"
         }
