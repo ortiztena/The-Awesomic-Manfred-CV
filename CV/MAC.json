@@ -83,7 +83,12 @@
           {
             "name": "DevOps New Career II",
             "startDate": "2023-03-01",
-            "finishDate": "2024-03-01"
+            "finishDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "• Full-Scale EKS Migration: Spearheaded the transition of an entire AWS account from Linux EC2 to Amazon EKS, decoupling services and designing secure Cross-Account IAM strategies to maintain legacy resource access.\n\n• Containerization & Orchestration: Standardized application packaging with Docker and utilized Helm to fetch and manage repository-based configurations, ensuring consistent and scalable deployments across clusters.\n\n• Modernized CI/CD Pipelines: Re-engineered Bamboo and Octopus Deploy workflows to support containerized architectures, resolving legacy bottlenecks and automating the full build-to-cluster deployment cycle.\n\n• Infrastructure Optimization: Maximized operational efficiency by implementing AWS Warm Pools and developing Lambda functions for automated node patching and environment maintenance."
+              }
+            ]
           }
         ]
       },
