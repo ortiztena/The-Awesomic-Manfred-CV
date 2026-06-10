@@ -100,7 +100,12 @@
           {
             "name": "DevOps New Career I",
             "startDate": "2022-08-01",
-            "finishDate": "2023-03-01"
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "•AWS Infrastructure Management: Managed core services including S3, EC2, Lambda, Batch, IAM, and DynamoDB, ensuring high availability and security compliance.\n\n•Infrastructure as Code: Developed and maintained CloudFormation templates to automate environment provisioning and AWS stack management.\n\n• CI/CD: Orchestrated full deployment pipelines using Bamboo and Octopus Deploy, optimizing build and release workflows.\n\n• Reliability & Troubleshooting: Restored service stability by performing deep-dive troubleshooting of unhealthy stacks and server configurations."
+              }
+            ]
           }
         ]
       },
