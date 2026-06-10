@@ -59,7 +59,8 @@
         "roles": [
           {
             "name": "DevOps Engineer",
-            "startDate": "2024-03-01"
+            "startDate": "2024-03-01",
+            "finishDate": "2026-04-01"
           }
         ]
       },
